@@ -40,7 +40,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "md5"
+    email                : "maftouni@vt.edu"
   generatedFields:
     date:
       type               : "date"
@@ -81,9 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Maede Maftouni"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  avatar           : "profile.jpg"
+  bio              : "I am a Ph.D. candidate in Industrial Engineering at Virginia Tech. My research focuses are Data Analytics, Deep Learning, Computer Vision, Optimization, and Bayesian Statistics.
+I am a member of the Smart Manufacturing Analytics Research & Technology (SMART) Laboratory. Our goal is to detect anomalies and defects in manufacturing processes in realtime and adjust the machine parameters to mitigate the defects using sensor data. "
+  location         : "Blacksburg, Virginia, USA"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=6ArALhAAAAAJ&hl=en"
@@ -102,7 +103,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         :  "https://www.linkedin.com/in/maede-maftouni1991/"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
