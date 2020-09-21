@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+You can download a pdf version of my CV ![here](/files/CV.pdf)
 
 Education
 ======
