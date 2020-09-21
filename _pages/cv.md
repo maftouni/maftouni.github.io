@@ -13,6 +13,8 @@ You can download a pdf version of my CV ![here](/files/CV.pdf)
 Education
 ======
 * Ph.D. in ISE, Virginia Tech, (Fall 2017 - Present)
+* Graduate Certificate in **Data Analytics** at Virginia Tech, 2019
+* M.Sc. in ISE, Virginia Tech, 2019
 * M.Sc. in ISE, Amirkabir University of Technology, 2015
 * B.Sc. in ISE, Amirkabir University of Technology, 2013
 
