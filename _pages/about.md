@@ -20,7 +20,12 @@ Research Interests
 
 News
 =====
- 
+[May 2020]  Received Master of Science in Industrial and Systems Engineering at Virginia Tech
+[Dec 2019]  Received Graduate Certificate in Data Analytics at Virginia Tech
+[March 2020] Passed the Ph.D. Preiliminary exam 
+[November 2019] Presented at 2019 Informs Annual Meeting Seattle
+[September 2019] Joined the SMART Lab 
+[September 2017]  Awarded a Graduate Fellowship upon the admission to the Ph.D. program at Virginia Tech
 
 
 
