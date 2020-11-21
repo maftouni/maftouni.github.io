@@ -21,6 +21,7 @@ Research Interests
 News
 =====
 [Oct. 2020]  Won the runner-up award in the 2020 INFORMS QSR Data Challenge on "CT Scan Diagnosis for COVID-19"\
+[Oct. 2020]  Won the second place in the 2020 INFORMS student chapter at VT poster competition\
 [Sept. 2020]  Joined INFORMS student chapter at VT \
 [May 2020]  Received Master of Science in Industrial and Systems Engineering (ISE) at Virginia Tech\
 [Dec. 2019]  Received Graduate Certificate in Data Analytics at Virginia Tech\
