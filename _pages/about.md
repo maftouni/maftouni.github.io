@@ -13,13 +13,6 @@ I am a member of the [Smart Manufacturing Analytics Research & Technology (SMART
 
 I enjoy utilizing data analytics, machine learning, and deep learning methods to turn data into actionable insights, automatic systems, and interactive visualizations. I have worked with different data types, including time series, text, images, and videos, in industrial and medical projects. My end goal is to work as a data scientist and contribute to high-impact projects deriving value from raw data. 
 
-Research Interests
-======
-1. Data Analytics 
-2. Deep Learning 
-3. Computer Vision
-4. Optimization 
-
 News
 =====
 [Nov. 2020]  Won the runner-up award in the 2020 INFORMS QSR Data Challenge on "CT Scan Diagnosis for COVID-19"\
