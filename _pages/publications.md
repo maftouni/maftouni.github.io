@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can find my papers on my [Google Scholar profile](https://scholar.google.com/citations?user=6ArALhAAAAAJ&hl=en&oi=ao).
+You can find my papers on my [Google Scholar profile](https://scholar.google.com/citations?user=6ArALhAAAAAJ&hl=en).
 
 * **Maede Maftouni**, Andrew Chung Chee Law, Bo Shen, Yangze Zhou, N. Ayubi Yazdi, Zhenyu (James) Kong. “A Robust Ensemble-Deep Learning Model for COVID-19 Diagnosis based on an Integrated CT Scan Images Database,” Proceedings of the 2021 Industrial and Systems Engineering Conference [accepted]
 
