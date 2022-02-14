@@ -30,8 +30,8 @@ Work experience
   
 Skills
 ======
-* Programming: Python, MATLAB, R, SQL, VBA
-* Professional: SPSS, VENSIM, ARENA, PRIMAVERA P6
+* Programming: Python (Pandas, SciKit-Learn, PyTorch, TensorFlow), MATLAB, R, SQL, VBA
+* Professional: Tableau, SPSS, VENSIM, ARENA, PRIMAVERA P6
 * Applications: Photoshop, LaTeX, Microsoft Word/PowerPoint/Excel/Visio
 
 Teaching
@@ -40,5 +40,5 @@ I taught Engineering Economy Undergraduate Course at Virginia Tech on Summer 201
   
 Service and leadership
 ======
-* I am currently Serving as this year's Vice president of INFORMS student chapter at VT. 
+* I served as INFORMS student chapter vice president at VT. 
 
