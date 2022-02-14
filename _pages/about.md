@@ -15,8 +15,9 @@ I enjoy utilizing data analytics, machine learning, and deep learning methods to
 
 News
 =====
+[Nov. 2021]  Held a Python Workshop on ["US Real Estate Market Trends Visualization"](https://www.youtube.com/watch?v=Yo0P7zcKDtg) at VT INFORMS Student Chapter\
 [Aug. 2021]  Received Future Professoriate Certificate at Virginia Tech\
-[Apr. 2021]  Held a Workshop on "Data Wrangling and Analysis in Python" at VT INFORMS Student Chapter\
+[Apr. 2021]  Held a Workshop on ["Data Wrangling and Analysis in Python"](https://www.youtube.com/watch?v=H3avEl3mp6o) at VT INFORMS Student Chapter\
 [Nov. 2020]  Won the runner-up award in the 2020 INFORMS QSR Data Challenge on "CT Scan Diagnosis for COVID-19"\
 [Nov. 2020]  Won the second place in the 2020 VT INFORMS student Chapter Poster Competition\
 [May 2020]  Received Master of Science in Industrial and Systems Engineering (ISE) at Virginia Tech\
