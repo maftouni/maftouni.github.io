@@ -15,6 +15,7 @@ I enjoy utilizing data analytics, machine learning, and deep learning methods to
 
 News
 =====
+[Apr. 2022]  Held a Workshop on ["Building Interactive Dashboards with Tableau"](https://www.youtube.com/watch?v=ZsjCkWFVwCk) at VT INFORMS Student Chapter\
 [Nov. 2021]  Held a Python Workshop on ["US Real Estate Market Trends Visualization"](https://www.youtube.com/watch?v=Yo0P7zcKDtg) at VT INFORMS Student Chapter\
 [Aug. 2021]  Received Future Professoriate Certificate at Virginia Tech\
 [Apr. 2021]  Held a Workshop on ["Data Wrangling and Analysis in Python"](https://www.youtube.com/watch?v=H3avEl3mp6o) at VT INFORMS Student Chapter\
