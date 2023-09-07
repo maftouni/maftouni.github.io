@@ -8,13 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I am Maede, a Ph.D. candidate in [Industrial Engineering at Virginia Tech](https://www.ise.vt.edu/people/graduate/phd/maftouni.html), and 2020-2021's Vice president of INFORMS student chapter at VT. I have my Master's degree from the Industrial and Systems Engineering Department of Virginia Tech. I have also received the graduate certificate in Data Analytics from the [Discovery Analytics Center](https://dac.cs.vt.edu/academics/data-analytics/) at Virginia Tech.
-I am a member of the [Smart Manufacturing Analytics Research & Technology (SMART) Laboratory](https://www.smartlab-vt.com/team) under the supervision of [Dr. James Kong](https://www.ise.vt.edu/people/faculty/kong.html). I have achieved two primary research goals so far; First, I proposed and implemented a novel approach for Covid-19 diagnosis. Second, I proposed and implemented deep learning structures for video object segmentation and tracking for additive manufacturing. 
+I am Maede, a Ph.D. holder in [Industrial Engineering from Virginia Tech](https://www.ise.vt.edu/people/graduate/phd/maftouni.html), currently employed as a Data Scientist at [Quantum-Si](https://www.quantum-si.com/). My educational background includes Master's and Bachelor's degrees in Industrial and Systems Engineering, with a strong emphasis on data analytics, learning techniques, and system thinking. I have also earned a graduate certificate in Data Analytics from the [Discovery Analytics Center](https://dac.cs.vt.edu/academics/data-analytics/) at Virginia Tech.
 
-I enjoy utilizing data analytics, machine learning, and deep learning methods to turn data into actionable insights, automatic systems, and interactive visualizations. I have worked with different data types, including time series, text, images, and videos, in industrial and medical projects. My end goal is to contribute to high-impact projects as a data scientist. 
+During my Ph.D., I was a part of the [Smart Manufacturing Analytics Research & Technology (SMART) Laboratory](https://www.smartlab-vt.com/team), working under the guidance of [Dr. James Kong](https://www.ise.vt.edu/people/faculty/kong.html). My research revolved around achieving two primary objectives. Firstly, I introduced and executed an innovative approach for Covid-19 diagnosis. Secondly, I designed and implemented deep learning models for video object segmentation and tracking in the context of additive manufacturing.
+
+I find great satisfaction in utilizing data analytics, machine learning, and deep learning methodologies to transform raw data into actionable insights, automated systems, and interactive visualizations, including executive dashboards. My experience spans a wide range of data types, encompassing time series data, text data, images, and videos, in both industrial and medical projects. My ultimate aim is to make significant contributions to high-impact projects as a dedicated data scientist.
+
+
 
 News
 =====
+[May. 2023]  Defended my Ph.D.\
 [Apr. 2022]  Held a Workshop on ["Building Interactive Dashboards with Tableau"](https://www.youtube.com/watch?v=ZsjCkWFVwCk) at VT INFORMS Student Chapter\
 [Nov. 2021]  Held a Python Workshop on ["US Real Estate Market Trends Visualization"](https://www.youtube.com/watch?v=Yo0P7zcKDtg) at VT INFORMS Student Chapter\
 [Aug. 2021]  Received Future Professoriate Certificate at Virginia Tech\
