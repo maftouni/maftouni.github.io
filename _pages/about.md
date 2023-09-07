@@ -18,7 +18,7 @@ I find great satisfaction in utilizing data analytics, machine learning, and dee
 
 News
 =====
-[May. 2023]  Defended my Ph.D.\
+[May. 2023]  Defended my Ph.D. in Industrial and Systems Engineering (ISE) at Virginia Tech\
 [Apr. 2022]  Held a Workshop on ["Building Interactive Dashboards with Tableau"](https://www.youtube.com/watch?v=ZsjCkWFVwCk) at VT INFORMS Student Chapter\
 [Nov. 2021]  Held a Python Workshop on ["US Real Estate Market Trends Visualization"](https://www.youtube.com/watch?v=Yo0P7zcKDtg) at VT INFORMS Student Chapter\
 [Aug. 2021]  Received Future Professoriate Certificate at Virginia Tech\
