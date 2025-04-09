@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-You can download a PDF version of my CV [here](/files/Maede_Maftouni_CV_2025_public.pdf)
+You can download a PDF version of my CV [here](/files/CV.pdf)
 
 Education
 ======
