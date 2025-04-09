@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
+I am Maede Maftouni, a Senior Data Scientist at Socure and former Senior Data Scientist at Quantum-Si, with a Ph.D. in [Industrial Engineering from Virginia Tech](https://www.ise.vt.edu/people/graduate/phd/maftouni.html). I have also earned a graduate certificate in Data Analytics from the [Discovery Analytics Center](https://dac.cs.vt.edu/academics/data-analytics/) at Virginia Tech. With expertise in data analytics, machine learning, and deep learning, I enjoy transforming complex data into actionable insights and interactive visualizations. I have applied these techniques across various domains including medical, manufacturing, and biochemistry projects. Skilled in Python, SQL, and tools like Apache Airflow, AWS, and Tableau, I am dedicated to driving innovation and efficiency in data-driven solutions.
 
-I am Maede Maftouni, a Senior Data Scientist at Quantum-Si with a Ph.D. in [Industrial Engineering from Virginia Tech](https://www.ise.vt.edu/people/graduate/phd/maftouni.html). I have also earned a graduate certificate in Data Analytics from the [Discovery Analytics Center](https://dac.cs.vt.edu/academics/data-analytics/) at Virginia Tech. With expertise in data analytics, machine learning, and deep learning, I enjoy transforming complex data into actionable insights and interactive visualizations. I have applied these techniques across various domains including medical, manufacturing, and biochemistry projects. Skilled in Python, SQL, and tools like Apache Airflow, AWS, and Tableau, I am dedicated to driving innovation and efficiency in data-driven solutions.
+Skilled in Python, SQL, and tools like Airflow, AWS, and Tableau, I focus on building efficient, data-driven solutions. At Quantum-Si, I developed ML models for protein sequencing, automated pipelines, and built dashboards to support R&D. At Socure, I created data apps and dashboards to streamline vendor performance evaluation and decision-making across regions.
 
 During my Ph.D., I was a part of the [Smart Manufacturing Analytics Research & Technology (SMART) Laboratory](https://www.smartlab-vt.com/team), working under the guidance of [Dr. James Kong](https://www.ise.vt.edu/people/faculty/kong.html). My research revolved around achieving two primary objectives. Firstly, I introduced and executed an innovative approach for Covid-19 diagnosis. Secondly, I designed and implemented deep learning models for video object segmentation and tracking in the context of additive manufacturing.
 
@@ -19,6 +20,7 @@ I find great satisfaction in utilizing data analytics, machine learning, and dee
 
 News
 =====
+[Oct. 2024]  Joined Socure as a Senior Data Scientist\
 [Sep. 2023]  Promoted to Senior Data Scientist at Quantum-Si\
 [May. 2023]  Defended my Ph.D. in Industrial and Systems Engineering (ISE) at Virginia Tech\
 [May. 2022]  Joined Quantum-Si as a Data Scientist\
