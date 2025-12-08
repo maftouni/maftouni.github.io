@@ -11,8 +11,6 @@ Teaching is one of the most rewarding parts of my work. I enjoy helping students
 
 I have taught graduate and undergraduate courses at Northeastern University and the University of New Haven, covering topics such as data visualization, applied data engineering, and introductory analytics. These courses combine Tableau, Python, SQL, and storytelling techniques, giving students a strong foundation for communicating insights and building real data products.
 
-Even when I don’t publish full course materials online, I design all of my lectures, notebooks, and assignments myself, with the goal of making challenging concepts feel accessible and genuinely useful.
-
 
 Below are the courses and workshops I’ve taught.
 
