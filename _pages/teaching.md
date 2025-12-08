@@ -13,6 +13,7 @@ I have taught graduate and undergraduate courses at Northeastern University and 
 
 Even when I don’t publish full course materials online, I design all of my lectures, notebooks, and assignments myself, with the goal of making challenging concepts feel accessible and genuinely useful.
 
+
 Below are the courses and workshops I’ve taught.
 
 **Northeastern University (2025–Present)**
@@ -32,6 +33,7 @@ Below are the courses and workshops I’ve taught.
 - Building Interactive Dashboards with Tableau  
 - Data Wrangling and Analysis in Python  
 - U.S. Real Estate Market Trends Visualization 
+
 
 
 
