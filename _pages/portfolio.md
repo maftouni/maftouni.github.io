@@ -29,6 +29,28 @@ author_profile: true
     </a>
   </div>
 
+  <!-- Project 2: COVID-19 CT Scan Deep Learning Model -->
+<div style="flex: 1 1 320px; max-width: 360px; border-radius: 12px; box-shadow: 0 2px 10px rgba(0,0,0,0.08); overflow: hidden; background: #fff;">
+  <a href="/portfolio/covid19-ct-deep-learning/" style="text-decoration: none; color: inherit;">
+    <img src="/images/project2.png"
+         alt="COVID-19 CT Deep Learning Model"
+         style="width: 100%; display: block;">
+    <div style="padding: 16px 18px 20px 18px;">
+      <h3 style="margin: 0 0 8px 0; font-size: 20px;">
+        COVID-19 CT Deep Learning Model
+      </h3>
+      <p style="margin: 0 0 8px 0; font-size: 14px; line-height: 1.5;">
+        Mask-guided attention model for COVID-19 diagnosis using an integrated CT scan dataset.
+      </p>
+      <p style="margin: 0; font-size: 14px; font-weight: 600;">
+        View project →
+      </p>
+    </div>
+  </a>
+</div>
+
+
+
   <!-- Project 2: example placeholder (duplicate & edit for new projects) -->
   <div style="flex: 1 1 320px; max-width: 360px; border-radius: 12px; box-shadow: 0 2px 10px rgba(0,0,0,0.08); overflow: hidden; background: #fff;">
     <a href="#" style="text-decoration: none; color: inherit;">
