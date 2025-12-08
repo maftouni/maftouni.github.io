@@ -15,13 +15,12 @@ header:
   teaser: /images/real_estate_project.png
 
 image: /images/real_estate_project.png
-links:
-  - name: "Kaggle Notebook"
-    url: "https://www.kaggle.com/code/maedemaftouni/us-real-estate-market-trends-visualization"
-  - name: "Tableau Dashboard"
-    url: "https://public.tableau.com/app/profile/maede.maftouni/viz/USRealEstateMarketTrends/US_Housing"
-  - name: "YouTube Walkthrough"
-    url: "https://www.youtube.com/watch?v=ZsjCkWFVwCk"
+## Links
+
+- 📓 [**Kaggle Notebook**](https://www.kaggle.com/code/maedemaftouni/us-real-estate-market-trends-visualization): full data cleaning and exploration in Python  
+- 📊 [**Tableau Dashboard**](https://public.tableau.com/app/profile/maede.maftouni/viz/USRealEstateMarketTrends/US_Housing): interactive view of U.S. housing trends  
+- 🎥 [**YouTube Walkthrough**](https://www.youtube.com/watch?v=ZsjCkWFVwCk): guided explanation of the dashboard and key findings  
+
 ---
 
 ## Project overview
