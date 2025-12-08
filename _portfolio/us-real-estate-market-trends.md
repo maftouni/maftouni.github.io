@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "U.S. Real Estate Market Trends"
 collection: portfolio
 permalink: /portfolio/us-real-estate-market-trends/
@@ -9,7 +10,7 @@ tags:
   - tableau
   - real-estate
   - data-visualization
-image: /images/real_estate_project.png
+image: /images/us-real-estate.png
 links:
   - name: "Kaggle Notebook"
     url: "https://www.kaggle.com/code/maedemaftouni/us-real-estate-market-trends-visualization"
