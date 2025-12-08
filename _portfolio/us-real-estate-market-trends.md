@@ -38,7 +38,8 @@ finally recorded a short YouTube walkthrough to explain the main insights and de
 
 - How to wrangle raw real estate data in a Jupyter notebook  
 - How to translate analysis into an interactive Tableau dashboard for non-technical audiences  
-- How to present the story in a short video so others can quickly understand the insights  
+- - How to use Tableau as a business intelligence tool to transform raw data into interactive dashboards, a step-by-step walkthrough of building a dashboard from scratch
+ 
 
 ## Links
 
