@@ -10,6 +10,10 @@ tags:
   - tableau
   - real-estate
   - data-visualization
+
+header:
+  teaser: /images/real_estate_project.png
+
 image: /images/real_estate_project.png
 links:
   - name: "Kaggle Notebook"
