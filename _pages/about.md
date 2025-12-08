@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I’m Maede Maftouni, a Senior Data Scientist who loves turning complex data into tools that help people make better decisions. My work sits at the intersection of machine learning, data engineering, and insightful visualization, and I’ve always been drawn to problems where clarity and real impact matter just as much as accuracy.
+### Hi, I’m a Maede Maftouni, a full-stack data scientist who builds scalable AI and data engineering systems that turn complex data into clear, actionable insight.
 
-I’m currently at Socure building data products that surface real-time operational signals, automate insights, and make vendor and system performance easier to understand and optimize. Before that, I worked at Quantum-Si, where I designed machine learning models for protein sequencing hardware and built end-to-end data pipelines that supported both R&D and manufacturing. I earned my Ph.D. in [Industrial Engineering from Virginia Tech](https://www.ise.vt.edu/people/graduate/phd/maftouni.html), along with a [graduate certificate in Data Analytics](https://dac.cs.vt.edu/academics/data-analytics/).
+My work sits at the intersection of machine learning, data engineering, and insightful visualization, and I’ve always been drawn to problems where clarity and real impact matter just as much as accuracy.
+
+I’m currently a Senior Data Scientist at Socure building data products that surface real-time operational signals, automate insights, and make vendor and system performance easier to understand and optimize. Before that, I worked at Quantum-Si, where I designed machine learning models for protein sequencing hardware and built end-to-end data pipelines that supported both R&D and manufacturing. I earned my Ph.D. in [Industrial Engineering from Virginia Tech](https://www.ise.vt.edu/people/graduate/phd/maftouni.html), along with a [graduate certificate in Data Analytics](https://dac.cs.vt.edu/academics/data-analytics/).
 
 My work spans across medical imaging, manufacturing, biotech, and large-scale operational analytics. I enjoy projects that blend modeling, storytelling, and systems thinking, whether that means predicting hardware parameters, analyzing time series patterns, or building dashboards that help teams spot issues before they become problems. I work comfortably across text, time series, images, and video, and I use Python, SQL, Airflow, AWS, Tableau, and Streamlit almost every day.
 
