@@ -19,7 +19,7 @@ image: /images/real_estate_project.png
 ---
 
 ## Project overview
-
+ <img src="/images/real_estate_project.png"
 This project explores housing trends across the United States using publicly available real estate data.
 I first cleaned and explored the data in Python, then designed an interactive Tableau dashboard, and
 finally recorded a short YouTube walkthrough to explain the main insights and design choices.
