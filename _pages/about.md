@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-### Hi, I’m a Maede Maftouni, a full-stack data scientist who builds scalable AI and data engineering systems that turn complex data into clear, actionable insight.
+### Hi, I’m Maede Maftouni, a full-stack data scientist who builds scalable AI and data engineering systems that turn complex data into clear, actionable insight.
 
 My work sits at the intersection of machine learning, data engineering, and insightful visualization, and I’ve always been drawn to problems where clarity and real impact matter just as much as accuracy.
 
