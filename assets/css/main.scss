@@ -51,24 +51,3 @@
 }
 
 
-
-/* Custom header background */
-.masthead,
-.masthead__inner-wrap {
-  background-color: #f4f5ff !important;  /* soft lavender-gray */
-  box-shadow: 0 1px 3px rgba(0,0,0,0.06); /* subtle definition */
-}
-
-/* Remove transparent overlay that Minimal Mistakes adds */
-.masthead {
-  background-image: none !important;
-}
-
-/* Improve spacing */
-.masthead__inner-wrap {
-  padding-top: 14px;
-  padding-bottom: 14px;
-}
-  padding-bottom: 10px;
-}
-
