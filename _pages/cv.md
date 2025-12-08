@@ -10,13 +10,6 @@ redirect_from:
 {% include base_path %}
 You can download a PDF version of my CV [here](/files/CV.pdf)
 
-Education
-======
-* Ph.D. in ISE, Virginia Tech, May 2023
-* Graduate Certificate in **Data Analytics** at Virginia Tech, 2019
-* M.Sc. in ISE, Virginia Tech, 2019
-* M.Sc. in ISE, Amirkabir University of Technology, 2015
-* B.Sc. in ISE, Amirkabir University of Technology, 2013
 
 Work experience
 ======
@@ -30,7 +23,14 @@ Work experience
 * Teaching Assistant (Fall 2017 - Fall 2019)
   * Virginia Tech
   
-  
+Education
+======
+* Ph.D. in ISE, Virginia Tech, May 2023
+* Graduate Certificate in **Data Analytics** at Virginia Tech, 2019
+* M.Sc. in ISE, Virginia Tech, 2019
+* M.Sc. in ISE, Amirkabir University of Technology, 2015
+* B.Sc. in ISE, Amirkabir University of Technology, 2013
+    
 Skills
 ======
 * Programming: Python (PySpark, Pandas, Scikit-learn, PyTorch, TensorFlow), SQL, R, MATLAB, VBA
