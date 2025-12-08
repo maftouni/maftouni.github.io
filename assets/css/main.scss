@@ -40,7 +40,7 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-/* ==== Maede custom overrides (step 1) ==== */
+
 
 /* Make the main content area look like a soft card */
 .page__content {
@@ -52,24 +52,34 @@
 
 
  /* Portfolio card hover effect */
-.project-card {
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
+.archive__item {
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
   border-radius: 14px;
+  overflow: hidden; /* keeps rounded corners visible */
 }
 
-.project-card:hover {
+.archive__item:hover {
   transform: translateY(-6px);
-  box-shadow: 0 8px 22px rgba(0, 0, 0, 0.12);
+  box-shadow: 0 10px 24px rgba(0, 0, 0, 0.15);
 }
 
 /* Custom header background */
-.masthead {
-  background: #f7f7fb; /* soft very-light gray lavender */
-  border-bottom: 1px solid #e6e6e6;
+.masthead,
+.masthead__inner-wrap {
+  background-color: #f4f5ff !important;  /* soft lavender-gray */
+  box-shadow: 0 1px 3px rgba(0,0,0,0.06); /* subtle definition */
 }
 
+/* Remove transparent overlay that Minimal Mistakes adds */
+.masthead {
+  background-image: none !important;
+}
+
+/* Improve spacing */
 .masthead__inner-wrap {
-  padding-top: 10px;
+  padding-top: 14px;
+  padding-bottom: 14px;
+}
   padding-bottom: 10px;
 }
 
