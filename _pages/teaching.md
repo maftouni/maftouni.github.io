@@ -19,19 +19,19 @@ Below are the courses and workshops I’ve taught.
 - *ALY 3070: Communication and Visualization for Data Analytics*  
   Undergraduate course focused on Tableau, Python-based visual analytics, storytelling, dashboard design, and communicating insights to broad audiences.
 
-**University of New Haven (2023–2024)**\
-- *EGRM 6605 – Computing and Modeling for Engineering Management*  \
-  Graduate course covering Python, SQL, and analytical modeling with a practical, project-based approach.\
-- *INDE 6605 – Computing and Modeling in Industrial Engineering* \ 
-  Introduced programming, data analysis, and workflow automation for engineering applications.\
-- *MECH 2201 – Introduction to Applied Programming* \ 
-  Hands-on introduction to Python fundamentals, problem-solving, and computational thinking for engineering students.\
+**University of New Haven (2023–2024)**
+- *EGRM 6605 – Computing and Modeling for Engineering Management*  
+  Graduate course covering Python, SQL, and analytical modeling with a practical, project-based approach.
+- *INDE 6605 – Computing and Modeling in Industrial Engineering* 
+  Introduced programming, data analysis, and workflow automation for engineering applications.
+- *MECH 2201 – Introduction to Applied Programming* 
+  Hands-on introduction to Python fundamentals, problem-solving, and computational thinking for engineering students.
 
-**Workshops and Short Courses**\
-- Deep Learning with Python  \
-- Building Interactive Dashboards with Tableau  \
-- Data Wrangling and Analysis in Python  \
-- U.S. Real Estate Market Trends Visualization \ 
+**Workshops and Short Courses**
+- Deep Learning with Python  
+- Building Interactive Dashboards with Tableau  
+- Data Wrangling and Analysis in Python  
+- U.S. Real Estate Market Trends Visualization 
 
 
 
