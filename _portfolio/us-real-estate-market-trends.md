@@ -10,7 +10,7 @@ tags:
   - tableau
   - real-estate
   - data-visualization
-image: /images/us-real-estate.png
+image: /images/real_estate_project.png
 links:
   - name: "Kaggle Notebook"
     url: "https://www.kaggle.com/code/maedemaftouni/us-real-estate-market-trends-visualization"
