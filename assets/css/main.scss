@@ -62,3 +62,14 @@
   box-shadow: 0 8px 22px rgba(0, 0, 0, 0.12);
 }
 
+/* Custom header background */
+.masthead {
+  background: #f7f7fb; /* soft very-light gray lavender */
+  border-bottom: 1px solid #e6e6e6;
+}
+
+.masthead__inner-wrap {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
