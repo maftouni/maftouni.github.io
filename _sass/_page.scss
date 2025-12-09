@@ -5,31 +5,26 @@
 #main {
   @include container;
   @include clearfix;
-  margin-top: 2.5em;
-  padding-left: 0.5em;
-  padding-right: 0.5em;
+  margin-top: 2em;
+  padding-left: 1em;
+  padding-right: 1em;
   animation: intro 0.3s both;
   animation-delay: 0.35s;
 
   @include breakpoint($x-large) {
-    max-width: 75rem;
+    max-width: $x-large;
   }
 }
 
 .page {
   @include breakpoint($large) {
-    @include span(10.5 of 12 last);
+    @include span(10 of 12 last);
     @include prefix(0.5 of 12);
-    @include suffix(0.5 of 12);
+    @include suffix(2 of 12);
   }
 
   .page__inner-wrap {
     @include full();
-     background: #ffffff;
-     border-radius: 12px;
-     box-shadow: 0 6px 24px rgba(0, 0, 0, 0.06);
-     padding: 2rem 3rem;
-     margin-bottom: 3rem;
 
     .page__content,
     .page__meta,
@@ -41,9 +36,7 @@
 
 .page__title {
   margin-top: 0;
-  line-height: 1.2;
-  font-family: $header-font-family;
-  letter-spacing: 0.01em;
+  line-height: 1;
 
   & + .page__meta {
     margin-top: -0.5em;
@@ -56,8 +49,6 @@
 }
 
 .page__content {
-  font-family: $global-font-family;
-  line-height: 1.6;
 
   h2 {
     padding-bottom: 0.5em;
