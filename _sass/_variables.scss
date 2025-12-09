@@ -35,9 +35,10 @@ $bodoni                     : "Bodoni MT", serif;
 $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
 
-$global-font-family         : $sans-serif;
-$header-font-family         : $sans-serif;
-$caption-font-family        : $serif;
+$global-font-family   : $sans-serif;  // Inter for body text
+$header-font-family   : $serif;       // Playfair Display for headings
+$caption-font-family  : $sans-serif;  // keep captions clean and light
+
 
 
 
