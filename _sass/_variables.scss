@@ -16,11 +16,10 @@ $indent-var                 : 1.3em;
 
 
 /* system typefaces */
+/* system typefaces – use your Google fonts with good fallbacks */
 $serif      : "Playfair Display", Georgia, "Times New Roman", serif;
-$sans-serif : "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
-              "Helvetica Neue", Arial, sans-serif;
-$monospace  : "JetBrains Mono", SFMono-Regular, Menlo, Monaco, Consolas,
-              "Liberation Mono", "Courier New", monospace;
+$sans-serif : "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif;
+$monospace  : "JetBrains Mono", Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 
 
 
