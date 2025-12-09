@@ -17,11 +17,19 @@ $indent-var                 : 1.3em;
 
 /* system typefaces */
 /* system typefaces – use your Google fonts with good fallbacks */
-$serif      : "Playfair Display", Georgia, "Times New Roman", serif;
-$sans-serif : "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif;
-$monospace  : "JetBrains Mono", Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+/* system typefaces */
+$serif      : "Inter", -apple-system, BlinkMacSystemFont,
+              "Segoe UI", "Helvetica Neue", Arial, sans-serif;
 
+$sans-serif : "Inter", -apple-system, BlinkMacSystemFont,
+              "Segoe UI", "Helvetica Neue", Arial, sans-serif;
 
+$monospace  : "JetBrains Mono", Menlo, Monaco, Consolas, monospace;
+
+/* font usage */
+$global-font-family  : $sans-serif;
+$header-font-family  : $sans-serif;
+$caption-font-family : $sans-serif;
 
 
 /* sans serif typefaces */
@@ -34,11 +42,6 @@ $times                      : Times, serif;
 $bodoni                     : "Bodoni MT", serif;
 $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
-
-$global-font-family   : $sans-serif;  // Inter for body text
-$header-font-family   : $serif;       // Playfair Display for headings
-$caption-font-family  : $sans-serif;  // keep captions clean and light
-
 
 
 
